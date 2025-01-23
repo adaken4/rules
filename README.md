@@ -77,15 +77,6 @@ Example:
 
 ---
 
-## **Submission Instructions**  
-
-1. Prepare the Figma file for each deliverable as per the project requirements.  
-2. Ensure the files are clear, simple, and easy to understand.  
-3. Upload all Figma files to GitHub.  
-4. Share the GitHub repository link for evaluation.  
-
----
-
 ## **Resources**  
 
 - [Video Tutorial on Figma](#)  
